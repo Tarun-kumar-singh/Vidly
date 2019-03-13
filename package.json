@@ -1,0 +1,24 @@
+{
+  "name": "videly",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tarun singh",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^3.0.4",
+    "config": "^3.0.1",
+    "express": "^4.16.4",
+    "joi": "^13.7.0",
+    "jsonwebtoken": "^8.5.0",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.4.16",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.4",
+    "underscore": "^1.9.1"
+  }
+}
